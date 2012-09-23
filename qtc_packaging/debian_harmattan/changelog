@@ -1,0 +1,15 @@
+czmeteo (0.0.3) unstable; urgency=low
+  * back to chmi only data
+
+ -- Jozef Mlích <imlich@unknown>  Tue, 21 Aug 2012 15:02:16 +0200
+
+czmeteo (0.0.2) unstable; urgency=low
+  * data from radareu.cz
+
+ -- Jozef Mlích <imlich@unknown>  Tue, 14 Aug 2012 15:07:28 +0200
+
+czmeteo (0.0.1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Jozef Mlích <imlich@unknown>  Sat, 12 May 2012 18:14:47 +0200

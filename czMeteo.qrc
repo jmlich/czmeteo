@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>czMeteo_cs_CZ.qm</file>
+        <file>czMeteo_de_DE.qm</file>
+        <file>czMeteo_fr_FR.qm</file>
+    </qresource>
+</RCC>

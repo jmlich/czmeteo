@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Name=czMeteo
+Exec=/usr/bin/invoker --single-instance --splash /opt/czMeteo/share/czMeteo_splash.png --splash-landscape /opt/czMeteo/share/czMeteo_splash_landscape.png --type=d /opt/czMeteo/bin/czMeteo
+Icon=/usr/share/icons/hicolor/80x80/apps/czMeteo80.png
+X-Window-Icon=
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable
